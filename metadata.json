@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GeoSick",
+  "description": "AI-Powered Global Health Prediction & Wellness System presentation and demo application.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
